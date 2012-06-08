@@ -1,0 +1,13 @@
+---
+docsBpi2CodeDownloadControl: 1.3.6.1.2.1.10.127.6.1.4
+docsBpi2CodeDownloadStatusCode: 1.3.6.1.2.1.10.127.6.1.4.1
+docsBpi2CodeDownloadStatusString: 1.3.6.1.2.1.10.127.6.1.4.2
+docsBpi2CodeMfgOrgName: 1.3.6.1.2.1.10.127.6.1.4.3
+docsBpi2CodeMfgCodeAccessStart: 1.3.6.1.2.1.10.127.6.1.4.4
+docsBpi2CodeMfgCvcAccessStart: 1.3.6.1.2.1.10.127.6.1.4.5
+docsBpi2CodeCoSignerOrgName: 1.3.6.1.2.1.10.127.6.1.4.6
+docsBpi2CodeCoSignerCodeAccessStart: 1.3.6.1.2.1.10.127.6.1.4.7
+docsBpi2CodeCoSignerCvcAccessStart: 1.3.6.1.2.1.10.127.6.1.4.8
+docsBpi2CodeCvcUpdate: 1.3.6.1.2.1.10.127.6.1.4.9
+
+
